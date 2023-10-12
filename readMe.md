@@ -1,5 +1,8 @@
 # Redux state management
 
+[1. Redux vs NgRx](https://github.com/RukshanDias/Redux-state-management#redux-vs-ngrx)
+[2. Setup Redux dev-tools](https://github.com/RukshanDias/Redux-state-management#setup-redux-dev-tools)
+
 ## Redux vs NgRx
 - Redux - mainly developed for react.
 - NgRx - uses Redux principles with rxjs as the undeline library.
