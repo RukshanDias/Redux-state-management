@@ -1,7 +1,7 @@
 # Redux state management
 
-[1. Redux vs NgRx](https://github.com/RukshanDias/Redux-state-management#redux-vs-ngrx)
-[2. Setup Redux dev-tools](https://github.com/RukshanDias/Redux-state-management#setup-redux-dev-tools)
+[1. Redux vs NgRx](https://github.com/RukshanDias/Redux-state-management#redux-vs-ngrx) </br>
+[2. Setup Redux dev-tools](https://github.com/RukshanDias/Redux-state-management#setup-redux-dev-tools) </br>
 
 ## Redux vs NgRx
 - Redux - mainly developed for react.
